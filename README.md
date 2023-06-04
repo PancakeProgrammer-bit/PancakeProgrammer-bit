@@ -2,7 +2,7 @@
 
 <!--
 **PancakeProgrammer-bit/PancakeProgrammer-bit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=PancakeProgrammer-bit)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=PancakeProgrammer-bit)](https://git.io/streak-stats)
 
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Saul%20Codeman&theme=dark)](https://git.io/streak-stats)
